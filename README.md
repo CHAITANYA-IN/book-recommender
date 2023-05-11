@@ -1,5 +1,5 @@
 # Book Recommender
-Book Recommender using `Python3` and `numpy`, `pandas`, `scikit-learn` libraries
+Book Recommender using `python3` and `numpy`, `pandas`, `scikit-learn` libraries
 
 ### Dataset:
 > 
